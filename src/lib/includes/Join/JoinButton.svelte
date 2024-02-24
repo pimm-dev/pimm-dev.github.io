@@ -1,5 +1,5 @@
 <script lang='ts'>
-  let href: string | undefined
+  export let href: string | undefined
 </script>
 
 <style lang='scss'>
