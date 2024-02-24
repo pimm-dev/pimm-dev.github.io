@@ -14,6 +14,11 @@
     position: absolute;
     top: 25%;
     left: 15%;
+    @include tiny {
+      & {
+        left: 0;
+      }
+    }
   }
 </style>
 
