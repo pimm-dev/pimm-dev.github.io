@@ -5,9 +5,12 @@
 
 <BodySection id='careers'>
   <h2>그동안 피워낸 것들</h2>
+  <CareersSection title='24'>
+    <li>백준 온라인 저지 오픈 컨테스트 <a href="https://www.acmicpc.net/contest/view/1247" target="_blank">&lt;2024 상반기 전남대학교 PIMM 알고리즘 파티&gt;</a> 개최</li>
+  </CareersSection>
   <CareersSection title='23'>
     <li>광주글로벌게임센터 인디스타즈 2023</li>
-    <li>백준 온라인 저지 오픈 컨테스트 &lt;2023 전남대학교 PIMM 알고리즘 파티&gt; 개최</li>
+    <li>백준 온라인 저지 오픈 컨테스트 <a href="https://www.acmicpc.net/contest/view/1095" target="_blank">&lt;2023 전남대학교 PIMM 알고리즘 파티&gt;</a> 개최</li>
     <li>2023 ICPC Seoul Regional 진출</li>
   </CareersSection>
   <CareersSection title='22'>
