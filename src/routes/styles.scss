@@ -1,0 +1,95 @@
+/*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&display=swap');
+
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-Regular.eot') format('eot');
+}
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-Regular.woff') format('woff');
+}
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-Bold.eot') format('eot');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-Bold.woff') format('woff');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-Bold.woff2') format('woff2');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-ExtraBold.eot') format('eot');
+  font-weight: 900;
+}
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-ExtraBold.woff') format('woff');
+  font-weight: 900;
+}
+@font-face {
+  font-family: 'OnGothic';
+  src: url('/fonts/KoddiUDOnGothic-ExtraBold.woff2') format('woff2');
+  font-weight: 900;
+}
+
+
+:root {
+  --serif: 'Noto Serif KR', Georgia, 'Times New Roman', Times, serif;
+  --sans: 'OnGothic', 'Noto Sans KR', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  --primary: #013144;
+  --primary-bg: #fff;
+}
+
+html, body, p, ol, ul, li, dl, dt, dd, blockquote, figure, fieldset, legend, textarea, pre, iframe, hr, h1, h2, h3, h4, h5, h6, a {
+  font-family: var(--sans);
+  &::selection {
+    color: var(--primary-bg);
+    background-color: var(--primary);
+  }
+}
+
+h1 { font-size: 2em; font-weight: 600; margin: .5em 0; }
+h2 { font-size: 1.5em; font-weight: 600; margin: .3em 0; }
+h3 { font-size: 1.3em; font-weight: 600; margin: .2em 0; }
+h4 { font-size: 1.2em; font-weight: 600; margin: .2em 0; }
+
+p, ul, ol, li, a {
+  font-family: var(--serif);
+  color: var(--primary);
+  margin: .5em 0;
+}
+
+a {
+  transition: .2s ease-in-out;
+  &:hover,
+  &:focus {
+    background-color: var(--primary);
+    color: var(--primary-bg);
+  }
+}
+
+.body-section {
+  h2 {
+    text-align: center;
+    font-family: var(--serif);
+    font-size: 1.5em;
+    font-weight: normal;
+    margin-bottom: 1em;
+  }
+}
+
