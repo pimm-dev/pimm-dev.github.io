@@ -51,7 +51,7 @@
     </div>
     <div class='content'>
       <p>&copy; PIMM</p>
-      <p>광주광역시 북구 용봉로 77 전남대학교 공과대학 6호관</p>
+      <p>광주광역시 북구 용봉로 77 전남대학교 공과대학 6호관 801호</p>
       <div
         style={`
           display: flex;
