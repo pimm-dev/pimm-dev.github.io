@@ -7,4 +7,5 @@
 
     gtag('config', 'G-PSY4LMDZV3');
   </script>
+  <meta name="theme-color" content="#013144" />
 </svelte:head>
