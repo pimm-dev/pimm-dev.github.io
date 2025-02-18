@@ -2,6 +2,6 @@
   import { browser } from '$app/environment'
 
   if (browser) {
-    window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSfnqFFs9S28zCQWBjYOmcVEUEcVhjNegXHpnufk4es6Dvq23Q/viewform'
+    window.location.href = 'https://forms.gle/c6Jpiv5gmhhLiWuY6'
   }
 </script>
