@@ -13,12 +13,14 @@
     <li><a href="https://www.sojoong.kr/www/notice/view/565" target="_blank">&lt;2024 전남대학교 제 6회 SW프로그래밍 경진대회&gt;</a> 대상, 금상, 장려상</li>
     <li><a href="https://www.acmicpc.net/category/detail/4225" target="_blank">&lt;2024 GIST 알고리즘 마스터즈&gt;</a> 금상, 동상, 장려상</li>
     <li>백준 온라인 저지 오픈 컨테스트 <a href="https://www.acmicpc.net/contest/view/1247" target="_blank">&lt;2024 상반기 전남대학교 PIMM 알고리즘 파티&gt;</a> 개최</li>
+    <li>팀 비타민, <a href="https://play.google.com/store/apps/details?id=com.DefaultCompany.HexgonTile" target="_blank">&lt;육각타일&gt;</a> 출시</li>
   </CareersSection>
   <CareersSection title='2023'>
     <li>백준 온라인 저지 오픈 컨테스트 <a href="https://www.acmicpc.net/contest/view/1095" target="_blank">&lt;2023 전남대학교 PIMM 알고리즘 파티&gt;</a> 개최</li>
     <li>2023 ICPC Seoul Regional 진출</li>
     <li>&lt;2023 SW 동아리 발굴 및 지원프로그램 최종결과발표회&gt; 은상</li>
     <li>&lt;2023 전남대학교 제 5회 SW프로그래밍 경진대회&gt; 은상</li>
+    <li>PalmTurtle 팀, <a href="https://store.steampowered.com/app/2452370/A_Shadow_Cast_on_Water/" target="_blank">&lt;물에 드리운 그림자&gt;</a> 출시</li>
   </CareersSection>
   <CareersSection title='2022'>
     <li>&lt;광주글로벌게임센터 인디스타즈 2022&gt; 우수상</li>
