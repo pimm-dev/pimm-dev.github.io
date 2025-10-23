@@ -6,8 +6,10 @@
 <BodySection id='careers'>
   <h2>그동안 피워낸 것들</h2>
   <CareersSection title='2025'>
+    <li>2025 ICPC Seoul Regional 진출</li>
+    <li>백준 온라인 저지 <a href="https://www.acmicpc.net/contest/view/1567" target="_blank">&lt;2025 하반기 전남대학교 PIMM 알고리즘 파티&gt;</a> 개최</li>
+    <li><a href="https://www.sojoong.kr/www/notice/view/712" target="_blank">&lt;2025 전남대학교 제 8회 SW프로그래밍 경진대회&gt;</a> 대상, 금상, 장려상</li>
     <li>백준 온라인 저지 오픈 컨테스트 <a href="https://www.acmicpc.net/contest/view/1463" target="_blank">&lt;2025 상반기 전남대학교 PIMM 알고리즘 파티&gt;</a> 개최</li>
-    <li><a href="https://www.sojoong.kr/www/notice/view/712" target="_blank">&lt;2024 전남대학교 제 8회 SW프로그래밍 경진대회&gt;</a> 대상, 금상, 장려상</li>
   </CareersSection>
   <CareersSection title='2024'>
     <li>&lt;2024년 SW동아리 발굴 및 지원 프로그램 최종결과발표회&gt; 금상</li>
