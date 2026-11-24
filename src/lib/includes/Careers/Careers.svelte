@@ -6,7 +6,7 @@
 <BodySection id='careers'>
   <h2>그동안 피워낸 것들</h2>
   <CareersSection title='2026'>
-    <li>&lt;2026 호남권역대학게임개발연합동아리 HON 게임 커넥트 : 대학 게임개발 성과공유 및 게임 산업 인사이트 개최</li>
+    <li>&lt;2026 호남권역대학게임개발연합동아리 HON 게임 커넥트 : 대학 게임개발 성과공유 및 게임 산업 인사이트&gt; 개최</li>
     <li>&lt;2026 SW동아리 발굴 및 지원 프로그램 성과공유회&gt; 우수상</li>
   </CareersSection>
   <CareersSection title='2025'>
